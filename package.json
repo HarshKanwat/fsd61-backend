@@ -1,12 +1,25 @@
 {
-  "name": "fsd61wde",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 25,
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "name": "Sam Brown",
+      "email": "sam.brown@example.com",
+      "age": 22,
+      "isActive": true
+    }
+  ]
 }
